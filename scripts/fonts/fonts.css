@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+* epic {
+	font-family: 'Anton', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+* handmade {
+  font-family: 'Comic Neue', cursive;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+* letter {
+  font-family: 'Dancing Script', cursive;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+* computer {
+  font-family: 'Fira Code', monospace;
+}
