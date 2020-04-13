@@ -5,15 +5,20 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
 * handmade {
-  font-family: 'Comic Neue', cursive;
+	font-family: 'Comic Neue', cursive;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 * letter {
-  font-family: 'Dancing Script', cursive;
+	font-family: 'Dancing Script', cursive;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
 * computer {
-  font-family: 'Fira Code', monospace;
+	font-family: 'Fira Code', monospace;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+* cursive {
+	font-family: 'Pacifico', cursive;
 }
