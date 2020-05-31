@@ -22,3 +22,8 @@
 * cursive {
 	font-family: 'Pacifico', cursive;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+* cartoon {
+	font-family: 'Bangers', cursive;
+}
